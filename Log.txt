@@ -1,0 +1,24 @@
+For Html
+	Lleva un div principal called container
+	-Nav lleva clase 
+		-img lleva clase "eliminar el div"
+		-Ul lleva clase "eliminar clase from a"
+		-second Ul lleva clase
+
+For Css
+	the box sizing atrivute es un border-box
+ 	the padding is 0
+
+	body lleva Letras blancas y lleva el enlace de background
+
+
+	a no lleva no text decoration y el color de la letra es blanco
+
+	
+	for my nav ill use a bankground kinda blue
+
+	/Notes of image width/
+
+	HEADER.targeta= 1310x350
+	Sectioncardone and two 1310x350
+	newstand=350x200
